@@ -4,6 +4,11 @@ notebook/other/*
 data/experiment/*
 data/knowledge/other/*
 
+utils/plotting/animated.py
+utils/plotting/animations.py
+
+*~
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
