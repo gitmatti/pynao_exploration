@@ -1,3 +1,10 @@
+notebook/.ipynb_checkpoints/*
+notebook/other/*
+
+data/experiment/*
+data/knowledge/other/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
