@@ -1,5 +1,5 @@
-notebook/.ipynb_checkpoints/*
-notebook/other/*
+tutorial/.ipynb_checkpoints/*
+tutorial/other/*
 
 data/experiment/*
 data/knowledge/other/*
